@@ -7,6 +7,7 @@ external-arn2-1.xx.fbcdn.net
 external-cph2-1.xx.fbcdn.net
 external.xx.fbcdn.net
 facebook.com
+gateway.facebook.com
 graph.facebook.com
 l.facebook.com
 limited-prod.giphy.map.fastly.net
@@ -23,7 +24,9 @@ mqtt-mini.facebook.com
 mqtt.c10r.facebook.com
 rupload.facebook.com
 scontent-arn2-1.xx.fbcdn.net
+scontent-arn2-2.xx.fbcdn.net
 scontent-cph2-1.xx.fbcdn.net
+scontent.xx.fbcdn.net
 scontent.xx.fbcdn.net	
 star-mini.c10r.facebook.com	
 star.c10r.facebook.com	
