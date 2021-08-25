@@ -39,3 +39,4 @@ web.facebook.com
 www.facebook.com
 www.messenger.com
 video-arn2-1.xx.fbcdn.net
+video.xx.fbcdn.net
